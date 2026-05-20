@@ -1,4 +1,4 @@
-# Eliminator
+# Decision Maker
    A random choice eliminator built with Python.
 
 ## How It Works
